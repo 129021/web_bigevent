@@ -109,7 +109,7 @@ $(function () {
                 // console.log(fd);
 
                 // 发起Ajax数据请求
-                publishArticle(fd)
+                publ ishArticle(fd)
             })
     })
 
